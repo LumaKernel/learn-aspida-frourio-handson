@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.27.1",
+    "fastify-cors": "^6.0.2"
+  },
+  "devDependencies": {
+    "aspida": "^1.7.1",
+    "frourio": "^0.26.0"
+  }
+}
